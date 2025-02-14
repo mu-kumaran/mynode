@@ -49,6 +49,6 @@ step 8:
 
 step 9:
 	goto chrome :
-	http://localhost/3454
+	http://localhost:3454
 
 	output
